@@ -1,0 +1,21 @@
+body {
+    background: #ffee002d
+}
+
+h1 {
+    text-align: center;
+    color: red
+}
+
+h2 {
+    text-align: center;
+    color: red
+}
+
+:start {
+    text-transform: capitalize;
+}
+
+.italytext {
+    font-style: italic;
+}
